@@ -6,8 +6,7 @@ This is the YOLOv1 version implemented using Pytorch.
 Just use the official YOLOv5 version of the environment, the link is [this link](https://github.com/ultralytics/yolov5)
 ```
 # create virtual environment
-conda create -n cddfuse python=3.8.10
-conda activate cddfuse
+conda create -n yolov1 python=3.8.10
 pip install -r requirements.txt
 ```
 
