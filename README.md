@@ -1,5 +1,6 @@
 # yolov1-pytorch
 This is the YOLOv1 version implemented using Pytorch.
+![示例图片](YOLOv1.png)
 ## 🌐 Usage
 ### 🏊 Training
 **1. Virtual Environment**
